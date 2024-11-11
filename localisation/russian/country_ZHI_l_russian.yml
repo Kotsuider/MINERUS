@@ -1,0 +1,88 @@
+﻿l_russian:
+ ###Politics###
+  ##Bookmark/Intro##
+   #TAG_GATHERING_STORM_DESC: ""
+  ##Country Name##
+   #TAG: ""
+    #TAG_DEF: "the "
+    #TAG_ADJ: ""
+   #TAG_ideology: ""
+    #TAG_ideology_DEF: "the "
+    #TAG_ideology_ADJ: ""
+   #TAG_subideology: ""
+    #TAG_subideology_DEF: "the "
+    #TAG_subideology_ADJ: ""
+  ##Factions##
+   #TAG_faction: ""
+  ##Political Parties##
+   #TAG_ideology_party: ""
+    #TAG_ideology_party_long: ""
+ ###Characters###
+  ##Leaders##
+  ZHI_chi_sakai: "Чи Сакай"
+    #TAG_charactername_leader_desc: ""
+    #TAG_charactertrait: ""
+    ZHI_chi_sakai_leader_desc: "§8Настало время взглянуть в лицо нашим страхам!.§!\n\nЧи Омори Сакай действующий президент Союза Жинь-Таоу. Родившись в 621 году в гаванском городе Сандравен, она уехала с родителями на остров Ёи Точи в 626 году, когда Чи была ещё маленьким ребёнком. Её жизнь на острове была очень изнурительной, став шахтёром всего-лишь в 12 лет, работая по 19 часов в сутки, также подвергая себя опасностям.\n\nВ дальнейшем она станет активисткой за права трудящихся и быстро приобретёт последователей. Она станет лидером Союза в 643 году, став одним из самых молодых лидеров Верхнего мира.\n\nС тех пор ее лидерство стабильно, но дела обстоят не так хорошо, поскольку рабочие становятся все более недовольными и протестуют. Что будет с Союзом?  Знает один лишь Джеб"
+  ##Commanders##
+    #TAG_charactername_commander_desc: ""
+  ##Political Advisors##
+    #TAG_charactername_political_desc: ""
+  ##Military Advisors##
+    #TAG_charactername_theorist_desc: ""
+    #TAG_charactername_chief_desc: ""
+    #TAG_charactername_highcmdr_desc: ""
+ ###Ideas/Concerns/Flags/Tooltips###
+  ##Ideas##
+   #TAG_ideaname: ""
+    #TAG_ideaname_desc: ""
+  ##Concerns/Designers##
+   #TAG_concernname: ""
+    #TAG_concernname_desc: ""
+  ##Global Flags##
+   #TAG_globalflagname: ""
+  ##Country Flags##
+   #TAG_countryflagname: ""
+  ##Tooltips##
+   #TAG_tooltipname: ""
+  ##Map Modifiers##
+   #TAG_map_modifier: ""
+ ###National Focuses###
+  #TAG_focustreename: ""
+  ##Focustree Branch##
+   #TAG_focusname: ""
+    #TAG_focusname_desc: ""
+    #TAG_focuscustomtriggertooltipname_cttt: ""
+    #TAG_focuscustomeffecttooltipname_cett: ""
+    #TAG_namespace.eventtitle.t: ""
+     #TAG_namespace.eventdescription.d: ""
+     #TAG_namespace.eventoptiona.a: ""
+     #TAG_namespace.eventoptionacustomeffecttooltip.a_cett: ""
+ ###Events###
+  ##Event Category##
+   #TAG_namespace.eventtitle.t: ""
+    #TAG_namespace.eventtitle.d: ""
+    #TAG_namespace.eventtitle.a: ""
+    #TAG_namespace.eventtitle.a_cett: ""
+ ###Decisions###
+  ##Decision Category##
+   #TAG_decisioncategoryname: ""
+    #TAG_decisioncategoryname_desc: ""
+    #TAG_decisionname: ""
+     #TAG_decisionname_desc: ""
+     #TAG_focuscustomtriggertooltipname_cttt: ""
+     #TAG_focuscustomeffecttooltipname_cett: ""
+     #TAG_decisionname_req: "£iconhere  §Ycost§!"
+      #TAG_decisionname_req_blocked: "£iconhere  §Yunmetcost§!"
+ ###Cultural Overrides###
+  ##Equipment##
+   #TAG_namedequipment: ""
+    #TAG_namedequipment_desc: ""
+  ##Variants##
+   #TAG_EQUIPMENT_VERSION_1: ""
+  ##Military Namelists##
+   #UNIT_GENERIC_NAME_TAG: "$NR$. $NAME$"
+   #FLEET_NAME_TAG: "fleetname $NUMBER$"
+   #AIR_WING_NAME_TAG_FALLBACK: "$TYPE$ $NUMBER$"
+   #AIR_WING_NAME_TAG_GENERIC: "$NAME$ $NR$"
+  ##City Names##
+   #TAG_vp_cityname: ""

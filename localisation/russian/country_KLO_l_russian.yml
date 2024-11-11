@@ -1,0 +1,98 @@
+﻿l_russian:
+#Documentation is contained within the documentation folder under `localisation_guidelines.md`. Open it with a text editor, browser, or markup reading interface.
+ ###Politics###
+  ##Bookmark/Intro##
+   #TAG_GATHERING_STORM_DESC: ""
+  ##Country Name##
+   #TAG: ""
+    #TAG_DEF: "the "
+    #TAG_ADJ: ""
+   #TAG_ideology: ""
+    #TAG_ideology_DEF: "the "
+    #TAG_ideology_ADJ: ""
+   #TAG_subideology: ""
+    #TAG_subideology_DEF: "the "
+    #TAG_subideology_ADJ: ""
+  ##Factions##
+   #TAG_faction: ""
+  ##Political Parties##
+   #TAG_ideology_party: ""
+    #TAG_ideology_party_long: ""
+ ###Characters###
+  ##Leaders##
+  KLO_sir_micheal_the_brave: "Сэр Майкл Храбрый"
+  KLO_sir_micheal_the_brave_leader_desc: "Майкл Дель Архелес (также известный как "Майкл Храбрый") is the 23rd leader of the knightly order known as "The Order of The Blue Stone". He is known as an honorable protector of the north as well as being a renowned and skilled warrior. Micheal joined the order at a young age after losing both of his parents to bandits. Since becoming the leader of The Order, he has been focused on using the order's warriors to hold back the various beasts and monsters that roam around the far northern area known as "Beast Forest". The situation at home has been calm for a long time, resulting in some of the order's knights becoming more self serving as no real dangers present themselves. Micheal is willing to do everything and anything to ensure that the order does not fall to the very degeneracy that it has been fighting against. He would even give his life for it, if it was required."
+  KLO_leader_of_the_order: "Лидер Ордена"
+   #TAG_charactername: ""
+    #TAG_charactername_leader_desc: ""
+    #TAG_charactertrait: ""
+    #TAG_charactertrait_desc: ""
+  ##Commanders##
+  KLO_theodore_gray: "Theodore Gray"
+  KLO_theodore_gray_commander_desc: "A famous knight of Southern origins, Theodore Gray joined up with the Order of The Blue Stone after having been invited to join by the previous leader of the order. Sir Gray is known to be extremely devoted and would never let himself get corrupted by evil temptations. Though, the same cannot be said for everyone."
+  KLO_martina_perez: "Guan Perez"
+  KLO_martina_perez_commander_desc: "Guan Perez was born in a small rural town in Ardanté. Always interested in the stories of famous knights, it was unsurprising to see him follow down that same path as those famed warriors once did. Sir Perez is an honorable warrior that knows when to show mercy and when not to. A fine man and great warrior, for sure."
+  KLO_andres_romero: "Andres Romero"
+  KLO_andres_romero_commander_desc: "A well-known duelist from Ardanté, Andres Romero grew up in extreme poverty. He was recruited into the order by a knight who saw great potential in the young boy. Recently, Sir Romero's reputation has been smeared with rumours of bribery and corruption. Andres Romero is a valued member of the order, despite the accusations against him."
+    #TAG_charactername_commander_desc: ""
+  ##Political Advisors##
+    #TAG_charactername_political_desc: ""
+  ##Military Advisors##
+    #TAG_charactername_theorist_desc: ""
+    #TAG_charactername_chief_desc: ""
+    #TAG_charactername_highcmdr_desc: ""
+ ###Ideas/Concerns/Flags/Tooltips###
+  ##Ideas##
+   #TAG_ideaname: ""
+    #TAG_ideaname_desc: ""
+  ##Concerns/Designers##
+   #TAG_concernname: ""
+    #TAG_concernname_desc: ""
+  ##Global Flags##
+   #TAG_globalflagname: ""
+  ##Country Flags##
+   #TAG_countryflagname: ""
+  ##Tooltips##
+   #TAG_tooltipname: ""
+  ##Map Modifiers##
+   #TAG_map_modifier: ""
+ ###National Focuses###
+  #TAG_focustreename: ""
+  ##Focustree Branch##
+   #TAG_focusname: ""
+    #TAG_focusname_desc: ""
+    #TAG_focuscustomtriggertooltipname_cttt: ""
+    #TAG_focuscustomeffecttooltipname_cett: ""
+    #TAG_namespace.eventtitle.t: ""
+     #TAG_namespace.eventdescription.d: ""
+     #TAG_namespace.eventoptiona.a: ""
+     #TAG_namespace.eventoptionacustomeffecttooltip.a_cett: ""
+ ###Events###
+  ##Event Category##
+   #TAG_namespace.eventtitle.t: ""
+    #TAG_namespace.eventtitle.d: ""
+    #TAG_namespace.eventtitle.a: ""
+    #TAG_namespace.eventtitle.a_cett: ""
+ ###Decisions###
+  ##Decision Category##
+   #TAG_decisioncategoryname: ""
+    #TAG_decisioncategoryname_desc: ""
+    #TAG_decisionname: ""
+     #TAG_decisionname_desc: ""
+     #TAG_focuscustomtriggertooltipname_cttt: ""
+     #TAG_focuscustomeffecttooltipname_cett: ""
+     #TAG_decisionname_req: "£iconhere  §Ycost§!"
+      #TAG_decisionname_req_blocked: "£iconhere  §Yunmetcost§!"
+ ###Cultural Overrides###
+  ##Equipment##
+   #TAG_namedequipment: ""
+    #TAG_namedequipment_desc: ""
+  ##Variants##
+   #TAG_EQUIPMENT_VERSION_1: ""
+  ##Military Namelists##
+   #UNIT_GENERIC_NAME_TAG: "$NR$. $NAME$"
+   #FLEET_NAME_TAG: "fleetname $NUMBER$"
+   #AIR_WING_NAME_TAG_FALLBACK: "$TYPE$ $NUMBER$"
+   #AIR_WING_NAME_TAG_GENERIC: "$NAME$ $NR$"
+  ##City Names##
+   #TAG_vp_cityname: ""

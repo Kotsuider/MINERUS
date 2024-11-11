@@ -1,0 +1,18 @@
+﻿l_russian:
+ ###Introduction###
+  ##Bookmark##
+   SHE_GATHERING_STORM_DESC: ""
+ ###Politics###
+  ##Country Names##
+ SHE:0 "Cестринская Община"
+ SHE_DEF:0 "Cестринская Община"
+ SHE_ADJ:0 "Сёстры"
+ ###Characters###
+  ##Political Advisors##
+   SHE_Iris:0 "Ирис"
+    SHE_iris_political_desc: ""
+    SHE_Septimus:0 "Септимус"
+    SHE_septimus_political_desc: ""
+    SHE_Villa:0 "Вилла"
+    SHE_villa_political_desc: ""
+ 

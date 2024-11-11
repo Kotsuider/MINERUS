@@ -1,0 +1,148 @@
+﻿l_russian:
+ SPE_FVA:0 "Деревня Игроков"
+ SPE_FVA_DEF:0 "Деревня Игроков"
+ SPE_FVA_ADJ:0 "Деревня Игроков"
+ 
+ TBR_FRE:0 "Восстание Барона"
+ TBR_FRE_DEF:0 "Восстание Барона"
+ TBR_FRE_ADJ:0 "Барон"
+ 
+ VN1_FVA:0 "Свободная Деревня"
+ VN1_DEF:0 "Свободная Деревня"
+ VN1_ADJ:0 "Жители"
+ 
+ IMP_CVW:0 "Имперская Империя"
+ IMP_CVW_DEF:0 "Имперская Империя"
+ IMP_CVW_ADJ:0 "Имперская Империя"
+ 
+ # IMP_COM:0 "Имперская Коммуна"
+ # IMP_COM:0 "Имперская Коммуна"
+ # IMP_COM:0 "Имперская Коммуна"
+ 
+  IMP_CFS:0 "Конфедеративное Государство"
+ IMP_CFS_DEF:0 "Конфедеративное Государство"
+ IMP_CVW_ADJ:0 "Конфедеративное"
+
+ IMP_VAE:0 "Великая Варкутская империя"
+ IMP_VAE_DEF:0 "Великая Варкутская империя"
+ IMP_VAE_ADJ:0 "Варкутская"
+
+ VN7_FREE:0 "Свободный Союз Жителей"
+ VN7_FREE_DEF:0 "Свободный Союз Жителей"
+ VN7_FREE_ADJ:0 "Свободный Союз Жителей"
+
+ VN7_LEG:0 "Северный Легион"
+ VN7_LEG_DEF:0 "Северный Легион"
+ VN7_LEG_ADJ:0 "Северный Легион"
+
+ VN7_VIL:0 "Легион Жителей"
+ VN7_VIL_DEF:0 "Легион Жителей"
+ VN7_VIL_ADJ:0 "Легион Жителей"
+
+ FV_OMN:0 "Зловещая Деревня"
+ FV_OMN_DEF:0 "Зловещая Деревня"
+ FV_OMN_ADJ:0 "Зловещая Деревня"
+
+ FKE_EKE:0 "Восточное Королевство"
+ FKE_EKE_DEF:0 "Восточное Королевство"
+ FKE_EKE_ADJ:0 "Восточное"
+
+ FKE_IKE:0 "Императорское Королевство"
+ FKE_IKE_DEF:0 "Императорское Королевство"
+ FKE_IKE_ADJ:0 "Императорское"
+
+ FKE_OVW:0 "Федерация верхнего Мира"
+ FKE_OVW_DEF:0 "Федерация верхнего Мира"
+ FKE_OVW_ADJ:0 "Верхний Мир"
+
+ FKE_COM:0 "Восточное Содружество"
+ FKE_COM_DEF:0 "Восточное Содружество"
+ FKE_COM_ADJ:0 "Восточное"
+
+ SAB_remnant:0 "Остатки Южных Игроков"
+ SAB_remnant_DEF:0 "Остатки Южных Игроков"
+ SAB_remnant_ADJ:0 "Остатки Южных"
+
+ SPR_unified:0 "Северная Империя Игроков"
+ SPR_unified_DEF:0 "Северная Империя Игроков"
+ SPR_unified_ADJ:0 "Северные Игроки"
+
+ TVC_SPE_exile:0 "Экзилархия Южных Игроков"
+ TVC_SPE_exile_DEF:0 "Экзилархия Южных Игроков"
+ TVC_SPE_exile_ADJ:0 "Экзилархия Южных"
+
+ TVC_SPE:0 "Южная Империя Игроков"
+ TVC_SPE_DEF:0 "Южная Империя Игроков"
+ TVC_SPE_ADJ:0 "Южные Игроки"
+
+ TVC_TVE:0 "Империя Жителей"
+ TVC_TVE_DEF:0 "Империя Жителей"
+ TVC_TVE_ADJ:0 "Империя Жителей"
+
+  # Greater Erebaria
+ ERB_GEB:0 "Великое Государство Эребария"
+ ERB_GEB_DEF:0 "Великое Государство Эребария"
+ ERB_GEB_ADJ:0 "Эребария"
+
+
+ WTC_subject:0 "$OVERLORDADJ$ Компания Западного Верхнего Мира"
+ WTC_subject_DEF:0 "the $OVERLORDADJ$ Компания Западного Верхнего Мира"
+ WTC_subject_ADJ:0 "$OVERLORDADJ$ Компания Западного Верхнего Мира"
+ 
+ OTC_subject:0 "$OVERLORDADJ$ Компания Восточного Верхнего Мира"
+ OTC_subject_DEF:0 "the $OVERLORDADJ$ Компания Восточного Верхнего Мира"
+ OTC_subject_ADJ:0 "$OVERLORDADJ$ Компания Восточного Верхнего Мира"
+ 
+ ITC_subject:0 "$OVERLORDADJ$ Компания Северных Островов"
+ ITC_subject_DEF:0 "the $OVERLORDADJ$ Компания Северных Островов"
+ ITC_subject_ADJ:0 "$OVERLORDADJ$ Компания Северных Островов"
+ 
+ STC_subject:0 "$OVERLORDADJ$ Компания Южных Островов"
+ STC_subject_DEF:0 "the $OVERLORDADJ$ Компания Южных Островов"
+ STC_subject_ADJ:0 "$OVERLORDADJ$ Компания Южных Островов"
+ 
+ NTC_subject:0 "$OVERLORDADJ$ Компания Нижнего Мира"
+ NTC_subject_DEF:0 "$OVERLORDADJ$ Компания Нижнего Мира"
+ NTC_subject_ADJ:0 "$OVERLORDADJ$ Компания Нижнего Мира"
+ 
+ ETC_subject:0 "$OVERLORDADJ$ Компания Края"
+ ETC_subject_DEF:0 "the $OVERLORDADJ$ Компания Края"
+ ETC_subject_ADJ:0 "$OVERLORDADJ$ Компания Края"
+
+ WTC_piglin:0 "$OVERLORDADJ$ Западная Колония Верхнего Мира"
+ WTC_piglin_DEF:0 "The $OVERLORDADJ$ Западная Колония Верхнего Мира"
+ WTC_piglin_ADJ:0 "$OVERLORDADJ$ Западная Колония Верхнего Мира"
+
+ OTC_piglin:0 "$OVERLORDADJ$ Восточная Колония Верхнего Мира"
+ OTC_piglin_DEF:0 "The $OVERLORDADJ$ Восточная Колония Верхнего Мира"
+ OTC_piglin_ADJ:0 "$OVERLORDADJ$ Восточная Колония Верхнего Мира"
+
+ ITC_piglin:0 "$OVERLORDADJ$ Колония Северных Островов"
+ ITC_piglin_DEF:0 "The $OVERLORDADJ$ Колония Северных Островов"
+ ITC_piglin_ADJ:0 "$OVERLORDADJ$ Колония Северных Островов"
+
+ STC_piglin:0 "$OVERLORDADJ$ Колония Южных Островов"
+ STC_piglin_DEF:0 "The $OVERLORDADJ$ Колония Южных Островов"
+ STC_piglin_ADJ:0 "$OVERLORDADJ$ Колония Южных Островов"
+
+ NTC_piglin:0 "$OVERLORDADJ$ Колония Нижнего Мира"
+ NTC_piglin_DEF:0 "The $OVERLORDADJ$ Колония Нижнего Мира"
+ NTC_piglin_ADJ:0 "$OVERLORDADJ$ Колония Нижнего Мира"
+
+ ETC_piglin:0 "$OVERLORDADJ$ Колония Края"
+ ETC_piglin_DEF:0 "The $OVERLORDADJ$ Колония Края"
+ ETC_piglin_ADJ:0 "$OVERLORDADJ$ Колония Края"
+
+ GHD_cosmetic:0 "Великая Орда"
+ GHD_cosmetic_DEF:0 "Великая Орда"
+ GHD_cosmetic_ADJ:0 "Пиглины"
+
+ NUN_cosmetic:0 "Союз Нижнего Мира"
+ NUN_cosmetic_DEF:0 "Союз Нижнего Мира"
+ NUN_cosmetic_ADJ:0 "Нижний Мир"
+
+ GNG_GNA:0 "Великая Северная Армия"
+ GNG_GNA_DEF:0 "Великая Северная Армия"
+ GNG_GNA_ADJ:0 "Северяне"
+
+ ANY_EMPIRE:0 "Империя Игроков Нижнего Мира"

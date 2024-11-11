@@ -1,0 +1,12 @@
+﻿l_russian:
+ 
+ #Countries Cosmetic
+ 
+ LKR:0 "Царство короля Лича"
+ LKR_DEF:0 "Царство короля Лича"
+ LKR_ADJ:0 "Король Лич"
+ 
+ #Parties
+ 
+ LKR_monster_party:0 "Легион"
+ LKR_monster_party_long:0 "Некро-Легион"

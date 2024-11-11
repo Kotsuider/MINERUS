@@ -1,0 +1,23 @@
+﻿l_russian:
+ ###Introduction###
+  ##Bookmark##
+   ROT_GATHERING_STORM_DESC: ""
+ ###Politics###
+  ##Country Names##
+ ROT:0 "Ротхолд"
+ ROT_DEF:0 "Ротхолд"
+ ROT_ADJ:0 "Ротхолд"
+  ##Political Parties##
+   ROT_monster_party: "Очистители Костей"
+    ROT_monster_party_long: "Очистители Костей"
+ ###Characters###
+  ##Leaders##
+   ROT_rotten_king: "Король Гнили"
+    ROT_rking_leader_desc: ""
+  ##Commanders##
+  ##Political Advisors##
+   ROT_ambrosia: "Амброзия"
+  ##Military Advisors##
+ ###Ideas###
+  ##National Spirits##
+   ROT_rot_and_disease: "Гниль и болезни"

@@ -1,0 +1,38 @@
+﻿l_russian:
+ 
+ #Countries Cosmetic
+ 
+ VIR:0 "Государство Викстар"
+ VIR_DEF:0 "Государство Викстар"
+ VIR_ADJ:0 "Викстарский"
+ VIR_villagism:0 "Викстарская Республика"
+ VIR_villagism_DEF:0 "Викстарская Республика"
+ VIR_villagism_ADJ:0 "Викстарский"
+ VIR_socialism:0 "Викстарская Республика Игроков"
+ VIR_socialism_DEF:0 "Викстарская Республика"
+ VIR_socialism_ADJ:0 "Викстарский"
+ 
+ VPR:0 "Викстарская Республика Игроков"
+ VPR_DEF:0 "Викстарская Республика"
+ VPR_ADJ:0 "Викстарский"
+ 
+ #East Vixstar 
+ EIR:0 "Восточный Викстарский автономный округ"
+ EIR_DEF:0 "Восточный Викстарский автономный округ"
+ EIR_ADJ:0 "Викстарск"
+ EIR_villagism:0 "Республика Виксстар"
+ EIR_villagism_DEF:0 "Республика Виксстар"
+ EIR_villagism_ADJ:0 "Викстарск"
+ EIR_socialism:0 "Республика Игроков Виксстара"
+ EIR_socialism_DEF:0 "Республика Виксстар"
+ EIR_socialism_ADJ:0 "Викстарск"
+ 
+ #Parties
+ 
+ VIR_villagism_party:0 "Сайдмены"
+ VIR_villagism_party_long:0 "Сайдмены"
+ VIR_socialism_party:0 "ВС"
+ VIR_socialism_party_long:0 "Советы Викстар"
+ #Tooltip
+ 
+ POLITICS_VIKKSTAR_DESC:0 "Викрам Сингх Барн, известный как Виккстар, является южноимперским политиком и медийной личностью. Он является членом и соучредителем Сайдмена, группы южных имперцев."

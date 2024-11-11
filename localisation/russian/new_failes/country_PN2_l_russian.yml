@@ -1,0 +1,40 @@
+﻿l_russian:
+ SAL_GATHERING_STORM_DESC: "ATACAR! We are the Sapaude Legion. The great Pillager raiders of old are no more, crushed by Players. Some of us managed to escape, coming north and establishing empires. We await the day that we will return and reclaim what has been lost."
+ 
+ PN2_raid_category:0 "Race for the Villages"
+ PN2_raid_category_desc:0 "With multiple Pillager outposts and many villages, war is inevitable. It is only a question of which outpost will claim the most land."
+ PN2_raid_village:0 "Raid [FROM.GetName]"
+ PN2_raid_village_desc:0 "We must claim land and quickly!"
+ 
+ PN2_evoker:0 "The Evoker"
+ PN2_evoker_desc:0 "There are mages with great power among the Pillagers. The Evoker can summon Vexes and Jaws to rip his enemies to shreds."
+ 
+ pn2.1:0 "pillagers"
+ pn2.1.desc:0 "We are the Pillagers of the north. Us Pillagers have fought the Villagers and Players in numerous battles, and we have won many times. We know not what has become of our brothers to the south, but we will burn every village in the north!"
+ 
+ PN2_pillagers:0 "Pillagers of the North"
+ PN2_pillagers_desc:0 "Before the Southern Player Empire finally collapsed, it purged Pillagers left and right. We are the few that remain."
+ PN2_convert:0 "Converting the Villagers"
+ PN2_convert_desc:0 "It just won't do to have Villagers in our empire. Let's convert them."
+ PN2_conscript:0 "Deploy Our Armies"
+ PN2_conscript_desc:0 "Rally the Pillagers behind our banners and march to war!"
+ PN2_rapid:0 "Modernizing the Army"
+ PN2_rapid_desc:0 "We must a powerful army, but it also needs to know the latest tactics."
+ PN2_prey:0 "Preying on the Weak"
+ PN2_prey_desc:0 "The weak perish. The strong survive."
+ PN2_buy:0 "Smuggle in Player Equipment"
+ PN2_buy_desc:0 "The players won't notice if a small shipment goes missing..."
+ PN2_research:0 "Catching up in Tech"
+ PN2_research_desc:0 "Our technology is behind. If we are ever to reach the level of major powers, we must learn their secrets."
+ 
+ pn2_conscription:0 "All Serve"
+ pn2_improve:0 "Rapid Army Improvements"
+ pn2_weak:0 "Targeting the Weak"
+ 
+ #political parties
+ PN2_monster_party:0 "Evoker's Loyalists"
+ PN2_cultism_party:0 "Hidden Cults"
+ PN2_neutrality_party:0 "Outpost Officers"
+ PN2_villagism_party:0 "Pro-Peace movement"
+ PN2_socialism_party:0 "Worker Unions"
+ PN2_nationalist_party:0 "Villager Sympathisers"

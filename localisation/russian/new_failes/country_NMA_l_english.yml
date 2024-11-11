@@ -1,0 +1,44 @@
+﻿l_russian:
+ #politics
+ NMA_cultism_party:0 "Cultist Rebel Forces"
+ NMA_neutrality_party:0 "Occupation Forces"
+ NMA_nationalist_party:0 "AHL"
+ NMA_nationalist_party_long:0 "Anti-Herobrine League"
+ NMA_villagism_party:0 "FNS"
+ NMA_villagism_party_long:0 "Free Northern Settlements"
+ NMA_socialism_party:0 "NWM"
+ NMA_socialism_party_long:0 "Northern Worker Milita's"
+ NMA_monster_party:0 "Rogue Monsters"
+ 
+ NMR: "Northeastern Military Reconstruction Committee"
+ NMR_DEF: "the Northeastern Military Reconstruction Committee"
+ 
+ NMA_fultone: "Fultone"
+ NMA_fultone_desc: "The Military Authority doesn't really have a leader, as it is almost entirely composed of soldiers and knights. Usually, the leader is the highest ranking military officer, who is currently Fultone. Fultone leads the Authority with an iron fist, and has prepared it for the Third Unification War. Whether or not it will be able to stop Herobrine is another matter entirely."
+ 
+ NMA_GATHERING_STORM_DESC: "FUR DIE EHRE! The Military Authority was formed to fight Herobrine, and after his defeat they continued to guard the north. With little industry or political standing, they make a weak line against a superior foe. Indeed, many believe Herobrine to be dead and much aid has been cut off. As the south breaks apart into anarchy, the Authority is left as the abandoned first line against complete destruction. Even the Southern Player Empire has slowed its stream of supplies to us."
+ 
+ NMA_hate:0 "Hatred"
+ NMA_hate_desc:0 "Our hatred burns deep."
+ NMA_purge:0 "Purge the Traitors"
+ NMA_purge_desc:0 "There remain many traitors in our army. We must take them out!"
+ NMA_support:0 "Foreign Aid"
+ NMA_support_desc:0 "We cannot survive on our own. We must seek the aid of trusted allies."
+ NMA_build:0 "Foreign Industry"
+ NMA_build_desc:0 "We cannot afford to falter in our unwavering defence!"
+ NMA_unity:0 "Crush Dissent"
+ NMA_unity_desc:0 "There are still cultists in our nation."
+ NMA_crush:0 "Preparing for Herobrine"
+ NMA_crush_desc:0 "We must always be prepared because we do not know when he will strike." 
+ NMA_victory:0 "Pyrrhic Victory"
+ NMA_victory_desc:0 "So many lives lost. So much destruction. Yet we won. Our struggle is over!"
+ 
+ nma.1:0 "Hatred"
+ nma.1.desc:0 "Formed after herobrine's agression, we were formed by the GNA to contain the last remaining bits of Herobrine's forces. As of right now, we are locked on a war against cultism, with Herobrine-Aligned Guerrillas spurting and harming our military control of the region. The authority is on the constant hunt for these cells and will do everything to its capacity to destroy them."
+ 
+ nma_pure1:0 "Traitors Hunted Down"
+ nma_pure2:0 "Traitors Slaughtered"
+ nma_help:0 "Player Volunteers"
+ nma_fight:0 "Bulwark of Purity"
+ nma_rebuild:0 "Rebuilding"
+ 

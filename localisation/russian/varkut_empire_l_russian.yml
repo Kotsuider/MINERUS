@@ -1,0 +1,30 @@
+﻿l_russian:
+ 
+ #Countries Cosmetic
+ 
+ VAE:0 "Варкутинская Империя"
+ VAE_DEF:0 "Варкутинская Империя"
+ VAE_ADJ:0 "Варкут"
+ VAE_monster:0 "Государство Варкут"
+ VAE_monster_DEF:0 "Государство Варкут"
+ VAE_monster_ADJ:0 "Варкут"
+ VAE_villagism:0 "Варкутинская Республика"
+ VAE_villagism_DEF:0 "Варкутинская Республика"
+ VAE_villagism_ADJ:0 "Варкут"
+ VAE_socialism:0 "Республика Варкутских Игроков"
+ VAE_socialism_DEF:0 "Варкутинская Республика"
+ VAE_socialism_ADJ:0 "Варкут"
+ VAE_neutrality:0 "Варкутская Автономная Область"
+
+ VAE_nationalist_party:0 "ФНВВ"
+ VAE_nationalist_party_long:0 "Фронт Национального Возрождения Варкута"
+ 
+ WFG:0 "Повстанцы Леса Наблюдателей"
+ WFG_DEF:0 "Повстанцы Леса Наблюдателей"
+ WFG_ADJ:0 "Наблюдательск"
+ 
+ VAR:0 "Фронт Национального Возрождения Варкута"
+ VAR_DEF:0 "Фронт Национального Возрождения Варкута"
+ VAR_ADJ:0 "Варкутск"
+ VAR_nationalist_party:0 "ФНВВ"
+ VAR_nationalist_party_long:0 "Фронт Национального Возрождения Варкута"

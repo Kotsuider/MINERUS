@@ -1,0 +1,20 @@
+﻿l_russian:
+# Southern Port Contest Decisions
+#Brandstone
+CRK_control_br_desc: "Уровень влияния в §YThe Brandstone Port§! is: \n \n Crooked Hook: [?global.CRK_br_influence|B0]\n \n Dawson Syndicate: [?global.DAW_br_influence|t0]"
+DAW_control_br_desc: "Уровень влияния в §YThe Brandstone Port§! is: \n \n Crooked Hook: [?global.CRK_br_influence|B0]\n \n Dawson Syndicate: [?global.DAW_br_influence|t0]"
+#Goldhill
+CRK_control_go_desc: "Уровень влияния в §YThe Goldhill Port§! is: \n \n Crooked Hook: [?global.CRK_go_influence|B0]\n \n Dawson Syndicate: [?global.DAW_go_influence|t0]"
+DAW_control_go_desc: "Уровень влияния в §YThe Goldhill Port§! is: \n \n Crooked Hook: [?global.CRK_go_influence|B0]\n \n Dawson Syndicate: [?global.DAW_go_influence|t0]"
+#Mountbatten
+CRK_control_mo_desc: "Уровень влияния в §YThe Mountbatten Port§! is: \n \n Crooked Hook: [?global.CRK_mo_influence|B0]\n \n Dawson Syndicate: [?global.DAW_mo_influence|t0]"
+DAW_control_mo_desc: "Уровень влияния в §YThe Mountbatten Port§! is: \n \n Crooked Hook: [?global.CRK_mo_influence|B0]\n \n Dawson Syndicate: [?global.DAW_mo_influence|t0]"
+#Stevenson
+CRK_control_st_desc: "Уровень влияния в §YThe Stevenson Port§! is: \n \n Crooked Hook: [?global.CRK_st_influence|B0]\n \n Dawson Syndicate: [?global.DAW_st_influence|t0]"
+DAW_control_st_desc: "Уровень влияния в §YThe Stevenson Port§! is: \n \n Crooked Hook: [?global.CRK_st_influence|B0]\n \n Dawson Syndicate: [?global.DAW_st_influence|t0]"
+#Bwytze
+CRK_control_bw_desc: "Уровень влияния в §YThe Bwytze Port§! is: \n \n Crooked Hook: [?global.CRK_bw_influence|B0]\n \n Dawson Syndicate: [?global.DAW_bw_influence|t0]"
+DAW_control_bw_desc: "Уровень влияния в §YThe Bwytze Port§! is: \n \n Crooked Hook: [?global.CRK_bw_influence|B0]\n \n Dawson Syndicate: [?global.DAW_bw_influence|t0]"
+#Cevaux
+CRK_control_ce_desc: "Уровень влияния в §YThe Cevaux Port§! is: \n \n Crooked Hook: [?global.CRK_ce_influence|B0]\n \n Dawson Syndicate: [?global.DAW_ce_influence|t0]"
+DAW_control_ce_desc: "Уровень влияния в §YThe Cevaux Port§! is: \n \n Crooked Hook: [?global.CRK_ce_influence|B0]\n \n Dawson Syndicate: [?global.DAW_ce_influence|t0]"

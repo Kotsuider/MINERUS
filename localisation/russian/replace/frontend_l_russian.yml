@@ -1,0 +1,6 @@
+﻿l_russian:
+ FE_DIFFICULTY_VERY_EASY:0 "Нубы"
+ FE_DIFFICULTY_EASY:1 "Любитель"
+ FE_DIFFICULTY_NORMAL:1 "Игрок"
+ FE_DIFFICULTY_HARD:1 "Ветеран"
+ FE_DIFFICULTY_VERY_HARD:0 "Бог"

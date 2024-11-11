@@ -1,0 +1,30 @@
+﻿l_russian:
+ 
+ #Countries Cosmetic
+ 
+ CRH:0 "Орда Криперов"
+ CRH_DEF:0 "Орда Криперов"
+ CRH_ADJ:0 "Криперы'"
+ CRH_villagism:0 "Клан Криперов"
+ CRH_villagism_DEF:0 "Криперы"
+ CRH_villagism_ADJ:0 "Криперы'"
+ 
+ CRH_state:0 "Орда Криперов"
+ CRH_state_DEF:0 "Криперы"
+ CRH_state_ADJ:0 "Криперы'"
+ CRH_state_villagism:0 "Республика Криперов"
+ CRH_state_villagism_DEF:0 "Криперы"
+ CRH_state_villagism_ADJ:0 "Криперы"
+ 
+ #Advisors
+ 
+ CRH_Proggessor_Creeper:0 "Прогрессор Крипер"
+ 
+ #Parties
+ 
+ CRH_monster_party:0 "Лоялисты"
+ CRH_monster_party_long:0 "Сторонники Короля Криперов"
+ CRH_neutrality_party:0 "Лоялисты"
+ CRH_neutrality_party_long:0 "Сторонники Короля Криперов"
+ CRH_villagism_party:0 "Симпатизируют Игрокам"
+ CRH_villagism_party_long:0 "Симпатизируют Игрокам"

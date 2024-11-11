@@ -1,0 +1,23 @@
+﻿l_russian:
+ 
+ #Countries Cosmetic
+ 
+ WEK_neutrality:0 "Королевство Виамер"
+ WEK_neutrality_DEF:0 "Королевство Виамер"
+ WEK_neutrality_ADJ:0 "Виамер"
+ WEK_nationalist:0 "Виамерский Рейх"
+ WEK_nationalist_DEF:0 "Виамерский Рейх"
+ WEK_nationalist_ADJ:0 "Виамер"
+ WEK_villagism:0 "Виамерская Республика"
+ WEK_villagism_DEF:0 "Виамерская Республика"
+ WEK_villagism_ADJ:0 "Виамер"
+ WEK_socialism:0 "Виамерская Демократическая Республика"
+ WEK_socialism_DEF:0 "Виамерская Республика"
+ WEK_socialism_ADJ:0 "Виамер"
+ WEK_monster:0 "Государство Виамер"
+ WEK_monster_DEF:0 "Государство Виамер"
+ WEK_monster_ADJ:0 "Виамер"
+ 
+ WEK_neutrality_party:0 "Лояльное правительство его величества"
+ 
+ WEK_northern_brothers_alliance_faction:0 "Альянс Северных братьев"

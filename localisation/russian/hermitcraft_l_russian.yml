@@ -1,0 +1,59 @@
+﻿l_russian:
+ 
+ #Advisors
+ 
+ HER_BdoubleO100:0 "BdoubleO"
+ HER_Cubfan135:0 "Cubfan"
+ HER_Docm77:0 "Doc"
+ HER_EthosLab:0 "Etho"
+ HER_FalseSymmetry:0 "False"
+ HER_GeminiTay:0 "Gemini"
+ HER_Hypnotizd:0 "Hypno"
+ HER_iJevin:0 "iJevin"
+ HER_ImpulseSV:0 "Impulse"
+ HER_Iskall85:0 "Iskall"
+ HER_JoeHills:0 "Joe Hills"
+ HER_Keralis:0 "Keralis"
+ HER_PearlescentMoon:0 "Pearl"
+ HER_Rendog:0 "Ren"
+ HER_Stressmonster101:0 "Stress"
+ HER_TangoTek:0 "Tango"
+ HER_TinFoilChef:0 "TFC"
+ HER_VintageBeef:0 "Beef"
+ HER_Welsknight:0 "Wels"
+ HER_xBCrafted:0 "xB"
+ HER_ZedaphPlays:0 "Zedaph"
+ 
+ HER_Bigger_Logz_Inc:0 "Bigger Logz Inc."
+ HER_Boomers:0 "Boomers"
+ HER_ConCorp:0 "ConCorp"
+ HER_Five_GOATs:0 "Five GOATs"
+ HER_Grian_Emporium:0 "Grian Emporium"
+ HER_HEP:0 "HEP"
+ HER_Ice-E-Es:0 "Ice-E-Es"
+ HER_IDEA:0 "IDEA"
+ HER_Junk4Junk:0 "Junk4Junk"
+ HER_Pacific:0 "Pacific"
+ HER_Sahara:0 "Sahara"
+ 
+ #Countries Cosmetic
+ 
+HER: "Хермиткрафт"
+ HER_DEF: "Хермиткрафт"
+ HER_ADJ: "Хермит"
+ HER_villagism: "Республика Хермиткрафт"
+  HER_villagism_DEF: "Республика Хермиткрафт"
+  HER_villagism_ADJ: "Хермит"
+ 
+ #Parties
+ 
+HER_villagism_party: "Партия Mumbo"
+ HER_villagism_party_long: "Партия Mumbo Jumbo"
+ HER_socialism_party: "Партия Xisuma"
+  HER_socialism_party_long: "Партия Xisumavoid"
+ HER_nationalist_party: "Партия Grian"
+  HER_nationalist_party_long: "Партия Grian"
+ HER_neutrality_party: "Партия Scar"
+  HER_neutrality_party_long: "Партия GoodTimesWithScar"
+ HER_monster_party: "Партия Cleo"
+  HER_monster_party_long: "Партия ZombieCleo"

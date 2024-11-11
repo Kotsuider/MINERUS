@@ -1,0 +1,10 @@
+﻿l_russian:
+ basic_light_tank_chassis_short:0 "649 Лёгкий"
+ improved_light_tank_chassis_short:0 "650 Лёгкий"
+ advanced_light_tank_chassis_short:0 "653 Лёгкий"
+ basic_medium_tank_chassis_short:0 "649 Средний"
+ improved_medium_tank_chassis_short:1 "652 Средний"
+ advanced_medium_tank_chassis_short:0 "655 Средний"
+ basic_heavy_tank_chassis_short:0 "649 Тяжёлый"
+ improved_heavy_tank_chassis_short:1 "652 Тяжёлый"
+ advanced_heavy_tank_chassis_short:0 "655 Тяжёлый"

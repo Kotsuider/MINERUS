@@ -1,0 +1,15 @@
+﻿l_russian:
+ OCCUPIED_COUNTRY_MANPOWER_TOOLTIP:0 "Численность населения на контролируемых вами территориях — $NUM_TOTAL_MANPOWER|*H$, ваши текущие законы и другие коэффициенты дают вам доступ к $RATIO|.1H%$ ($NUM_ACCESSED_MANPOWER|*H$) из этих игроков."
+ GARRISON_ENTRY_MANPOWER_TOOLTIP:0 "Игроков за каждое подавление: $MANPOWER|*H$\nИгроков на дивизию: $MANPOWERDIV|*H$"
+ GARRISON_ENTRY_IC_TOOLTIP:0 "Стоимость производства за каждое подавление: £production_cost£$IC|*H$\nСтоимость производства за дивизию: sabotage_charcoal_kiln:0 "Саботаж Завода по Переработки Древесины"
+ sabotage_coal_storage:0 "Саботаж Угольного Хранилищя"
+ sabotage_rocket_site:0 "Саботаж Фейверковых Ракетниц"
+ sabotage_nuclear_reactor:0 "Саботаж Адского Реактора"
+ sabotage_coal:0 "Саботаж Угольных Ресурсов"
+ sabotage_wood:0 "Саботаж Древесных Ресурсов"
+ sabotage_redstone:0 "Саботаж Редстоуновых Ресурсов"
+ sabotage_lazurite:0 "Саботаж Лазуритовых Ресурсов"
+ sabotage_iron:0 "Саботаж Железных Ресурсов"
+ sabotage_gunpowder:0 "Саботаж Пороховых Ресурсов"
+ 
+ FOREIGN_SUPPORT_TOOLTIP:0 "Игроков предоставлено другими странами."

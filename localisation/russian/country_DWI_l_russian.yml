@@ -1,0 +1,51 @@
+﻿l_russian:
+ ###Introduction###
+  ##Bookmark##
+   DWI_GATHERING_STORM_DESC: ""
+ ###Politics###
+  ##Country Names##
+ DWI:0 "Затонувший остров"
+ DWI_DEF:0 "Затонувший остров"
+ DWI_ADJ:0 "Утопленники"
+  ##Political Parties##
+   DWI_villagism_party: "ПОУ"
+    DWI_villagism_party_long: "Партия Освобождения Утонувших"
+   DWI_socialism_party: "ОМ"
+    DWI_socialism_party_long: "Объединенная Мачта"
+   DWI_nationalist_party: "ФПУ"
+    DWI_nationalist_party_long: "Федеративная Партия Утонувших"
+   DWI_neutrality_party: "МА"
+    DWI_neutrality_party_long: "Моряки Аэкора"
+   DWI_monster_party: "СУ"
+    DWI_monster_party_long: "Союз Утопленников"
+ ###Characters###
+  ##Leaders##
+   DWI_rotten_flesh: "Гнилая Плоть"
+    DWI_rflesh_leader_desc: "§YBiography§!: Rotten Flesh was one of the founders of the Drowned Island, having journeyed with many other Drowned to the small island as a refuge from the continent. With their knowledge gained from the Water Temples they had built years ago, their intelligence was heightened, and so when the players came to colonize the east, they were able to communicate and assist them with their utmost ability. Having avoided death in many naval battles and assassinations, the Aquatic Prince continues to rule the country. But with age, he fails to notice the various movements forming against him, and will have to fight against the Socialists and make peace with the players."
+  ##Commanders###
+   DWI_sloppy_joe: "Слоппи Джо"
+    DWI_sjoe_comamnder_desc: ""
+   DWI_drim: "Дрим"
+    DWI_drim_comamnder_desc: ""
+  ##Political Advisors##
+   DWI_luciole: "Люсиоль"
+    DWI_luciole_political_desc: ""
+   DWI_kira: "Кира"
+    DWI_kira_political_desc: ""
+   DWI_thatcher: "Тэтчер"
+    DWI_thatcher_political_desc: ""
+   DWI_chimer: "Химера"
+    DWI_chimer_political_desc: ""
+   DWI_shangs: "Шаньги"
+    DWI_shangs_political_desc: ""
+  ##Military Advisors##
+ ###Cultural Overrides###
+  ##Equipment##
+   DWI_destroyer_1: "Класс Хаоса"
+   DWI_ship_hull_light_1: "Корпус класса Хаоса"
+    DWI_ship_hull_light_1_desc: "Sс незапамятных времен наша способность ориентироваться в море была связана с плаванием. Только в последние 200 лет мы стали использовать для морских путешествий более крупные деревянные суда. Благодаря тесным связям с поляками мы начали переоборудовать нашу флотилию под железные корабли. Со временем мы, возможно, создадим свои собственные современные военные корабли."
+   DWI_sonar: "Лонгшорские Скауты"
+    DWI_sonar_desc: "Утопленник способен долго ориентироваться на глубине. Организовав команды из таких моряков и снабдив их средствами связи, мы сможем оперативно обследовать глубины на предмет наличия подводных аппаратов. Это, в свою очередь, позволит лучше координировать действия надводных кораблей при поиске подводных судов.\n\nУстановка этого модуля в §YРэдстоуновый слот§! на §YЛёгкое судно§! или §YКрейсер§! поможет им обнаруживать вражеские §YПодлодки§!"
+   DWI_smoke_generator: "Энергия Ламинарий"
+    DWI_smoke_generator_desc: "При поджигании ламинарии выделяется небольшое количество энергии и образуются большие клубы дыма. Благодаря способности утопающих собирать большое количество ламинарии, мы можем использовать ее в качестве аварийного источника топлива. Она не только позволяет нам развивать короткую скорость, но и заметает следы при совершении маневров уклонения. Кроме того, его можно использовать в качестве уютного утешения для утонувших моряков."
+  ##Variants##

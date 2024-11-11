@@ -1,0 +1,5 @@
+﻿l_russian:
+HoM_anarchy: "Анархия"
+ HoM_anarchy_poli_desc: "На этой земле нет формы правления, царит анархия."
+ nether_portal_speed_modifier:0 "Портал в Нижний Мир"
+end_portal_speed_modifier:0 "Портал в Энд"

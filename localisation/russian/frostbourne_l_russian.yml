@@ -1,0 +1,24 @@
+﻿l_russian:
+ 
+ #Countries Cosmetic
+ 
+ FRO:0 "Фростборн"
+ FRO_DEF:0 "Фростборн"
+ FRO_ADJ:0 "Фростборн"
+ FRO_monster:0 "Орда Фростборн"
+ FRO_monster_DEF:0 "Фростборн"
+ FRO_monster_ADJ:0 "Фростборн"
+ FRO_socialism:0 "Союз Фростборн"
+ FRO_socialism_DEF:0 "Фростборн"
+ FRO_socialism_ADJ:0 "Фростборн"
+ 
+ #Parties
+ 
+ FRO_monster_party:0 "Нежить"
+ FRO_monster_party_long:0 "Орда нежити Херобрина"
+ FRO_neutrality_party:0 "Фростборн"
+ FRO_neutrality_party_long:0 "Фростборн Королество"
+ FRO_supremacism_party:0 "Фростборн"
+ FRO_supremacism_party_long:0 "Фростборн Королество"
+ FRO_villagism_party:0 "Фростборн"
+ FRO_villagism_party_long:0 "Фростборн Королество"

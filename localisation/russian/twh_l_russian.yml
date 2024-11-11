@@ -1,0 +1,98 @@
+﻿l_russian:
+
+ #Focuses
+ 
+ TWH_freedom_at_last:0 "Freedom at Last"
+ TWH_freedom_at_last_desc:0 "After years of oppression we were finally free! As our country was very unstable we, wither skeletons, are determined to make piece of land belong to us. We hoped the players could lend us a hand in the government forming process as long as we keep good relations with them, but the future would prove it wrong..."
+ TWH_no_government:0 "No Government"
+ TWH_no_government_desc:0 "For months we had no government. Our country was barely running without solid group of leaders. A populist group tried taking power to finally put an end to our suffering and rule the nation but the players didn't accept them and put them in jails..."
+ TWH_kingdom_at_least:0 "Kingdom"
+ TWH_kingdom_at_least_desc:0 "The players have got too much influence in our new state. They decide anything and everything and use us as a bargaining tool for the other Nether nations. Because of this our regent has decided to remain in power and create a provisional government to actually govern the country."
+ TWH_diplomacy:0 "Diplomacy"
+ TWH_diplomacy_desc:0 "We have tried to interact with the outside world but we just can't do it because of the Player Colony. No one desires to interact with a Wither nation. If we want to be able to perform diplomacy we need to establish ourselves as a peaceful nation."
+ #                                                                                                                use tag 
+ TWH_confirm_our_independence:0 "Confirm Our Independence"
+ TWH_confirm_our_independence_desc:0 "Most of Nether nations confirmed our independence, but Piglins still think of us as slaves. As we are going to be independent nation, for the last time ask them for accepting our independence."
+ TWH_never_with_piglins_again:0 "Never with Piglins Again!"
+ TWH_never_with_piglins_again_desc:0 "The Piglins treated us like slaves while we were under their control. We NEVER want to be under their rule again! We would prefer the players over those filthy Piglins."
+ TWH_players_privileges:0 "Players' Privileges"
+ TWH_players_privileges_desc:0 "Our diplomacy with the players has borne fruit. We should give the players some special privileges in our nation to show our thankfulness for their continued trust in us."
+ TWH_invite_overworld_investors:0 "Invite Overworld Investors"
+ TWH_invite_overworld_investors_desc:0 "Our economy is quite awful. If we want to improve it we should have more trade with the Overworld and let them invest in us. This way we can finally be able to compare up to the other Nether nations."
+ TWH_foreign_factories:0 "Foreign Factories"
+ TWH_foreign_factories_desc:0 "We are a desolate wasteland. This is an undeniable fact. However we can accept foreign investments in industry and make our nation a bit more colourful."
+ TWH_player_built_higways:0 "Player-built Highways"
+ TWH_player_built_higways_desc:0 "The investments of the players are really paying off now! With a better economy and a better industry we are more powerful than ever. One small problem though is that we don't have much transport capabilities. We should let the players build highways so we can easily transport goods in our territory."
+ TWH_sell_our_brothers_for_money:0 "Sell Our Brothers for Money"
+ TWH_sell_our_brothers_for_money_desc:0 "We didn't want it to get to this but we have no choice. Our ever increasing problem of a stagnating economy forces us to sell our brethren to the players for money. This isn't a good look on our fellows..."
+ TWH_wither_overworld_friendship_act:0 "Wither-Overworld Friendship Act"
+ TWH_wither_overworld_friendship_act_desc:0 "Our agreements with the players and the rest of the Overworld have finally reached an end point. This friendship act allows the players to build and mine whatever they want, wherever they want."
+ TWH_can_it_be_any_worse:0 "Can It be any worse?"
+ TWH_can_it_be_any_worse_desc:0 "Our deals with the players have brought us issues. Especially the selling ourselves as slaves part. Several factions against players have been gathering lately."
+ #Wither Path
+ TWH_wither_has_been_summoned:0 "Wither has been summoned"
+ TWH_wither_has_been_summoned_desc:0 "His Holiness the Wither has been summoned into the world. It has begun massacring players and creatures that don't belong here which ignited the revolution against them."
+ TWH_crusade_against_overworld:0 "Crusade Against Players"
+ TWH_crusade_against_overworld_desc:0 "We need to get rid of all the players that occupy our lands! With the help of the Wither we can finally claim true independence."
+ TWH_false_gods:0 "False Gods"
+ TWH_false_gods_desc:0 "There are many Nether, Overworld and End god-like creatures, but the Wither is the true god who returned to his lands to help his believers."
+ TWH_economy_for_our_god:0 "Economy for Our God"
+ TWH_economy_for_our_god_desc:0 "We need to make His Holiness the Wither proud of us. Our recent revolution has torn down every bit of player influence we had. This completely destroyed our economy. We better build it back up."
+ TWH_militarize_nation:0 "Sword per Skeleton"
+ TWH_militarize_nation_desc:0 "If we're going to be protecting ourselves from our enemies we need a good military. By giving every one of our citizens a sword in case of war we can easily call upon our masses of troops if danger comes close."
+ TWH_rise_from_players_corpses:0 "Rise from Players' Corpses"
+ TWH_rise_from_players_corpses_desc:0 "The players left many Overworld items behind when they fled. If we use these items we can grow like no other in the Nether. We would become even stronger than our old oppressors, the Piglins."
+ TWH_mount_ghasts_1:0 "Mount Ghasts"
+ TWH_mount_ghasts_1_desc:0 "By utilizing Ghasts as ridable flying cannons we can easily wipe out any enemy unit that comes in our way. It will be a bit difficult to train them though."
+ TWH_elite_warriors:0 "Elite Warriors"
+ TWH_elite_warriors_desc:0 "By training the few professional soldiers we have we can train them to be part of the elite Wither regiments. These soldiers are so incredibly talented and skilled with swords that they can take on several on their own and still win."
+ TWH_one_god:0 "One God"
+ TWH_one_god_desc:0 "The Wither has brought us to victory. We will not summon another Wither to replace it. We praise a singular Wither and nothing more."
+ TWH_summon_more_withers:0 "Summon More Withers"
+ TWH_summon_more_withers_desc:0 "By summoning more Withers per permission of His Holiness the Wither we can create an army of Withers to crush our enemies with."
+ TWH_proclaim_holy_wither_empire:0 "Proclaim Holy Wither Empire"
+ TWH_proclaim_holy_wither_empire_desc:0 "Now we've conquered our opponents we can finally proclaim what we were meant to become. The Holy Wither Empire!"
+ #King Path
+ TWH_king_still_in_power:0 "King still in power"
+ TWH_king_still_in_power_desc:0 "Despite the king's willingness to cooperate with players he is still thinking of independence. If we can gain enough influence we can kick out the players that have had much privileges in our lands for so long."
+ TWH_small_nationalization:0 "Small Nationalization"
+ TWH_small_nationalization_desc:0 "We need to secretly nationalize our homes and farms to increase efficiency of our production and increase our living standards."
+ TWH_hidden_factories:0 "Hidden Plants"
+ TWH_hidden_factories_desc:0 "The Players are watching us with a close eye. Any wrong move and we will be invaded. We should perform armament and weapons production in secret as to not arouse suspicion."
+ TWH_create_the_government:0 "Create the Government"
+ TWH_create_the_government_desc:0 "Now the king's position is solidified he can start to form the first government. We have waited so long for something to govern us and we will finally get it!"
+ TWH_new_elites:0 "New Elites"
+ TWH_new_elites_desc:0 "Our gracious king has granted funds to universities to expand and take in more wither skeletons. This way we can get more intelligent professors to then teach more young wither skeletons who will become the new elite of our nation."
+ TWH_full_nationalization:0 "Full Nationalization"
+ TWH_full_nationalization_desc:0 "With all the steps to nationalization complete it's about time we fully nationalize the economy for maximum efficiency."
+ TWH_royal_army:0 "Royal Wither Army"
+ TWH_royal_army_desc:0 "Our secret armament and weapon production has been improved to the point where we can form the Royal Wither Army. With this we can hopefully conquer the enemies we have here in the Nether."
+ TWH_cancel_players_privileges:0 "Cancel Players' Privileges"
+ TWH_cancel_players_privileges_desc:0 "We have given the players too much privilege. We need to cut down on this or else they will get all the influence to fully annex our nation!"
+ TWH_partner_to_player:0 "Partner to Players"
+ TWH_partner_to_player_desc:0 "Although our politics is turned against the players, we are still economically connected with them. We need to make a deal that will benefit the both sides."
+ TWH_on_our_own:0 "On Our Own"
+ TWH_on_our_own_desc:0 "Our Royal Wither Army and nationalization have brought forth a bright future for the Wither kind. We don't need players or outside investment. All we need is ourselves."
+ TWH_nether_will_be_withered:0 "Wither the Nether"
+ TWH_nether_will_be_withered_desc:0 "The time has come to enact revenge on those who wronged us. We need to invade our enemies and finally take over the Nether."
+ 
+ #Ideas
+ 
+ #Advisors
+ 
+ #Events
+ 
+ #Decisions
+ 
+ #Countries Cosmetic
+ 
+ TWH:0 "Иссохший доминион"
+ TWH_DEF:0 "Иссохшеегосударство"
+ TWH_ADJ:0 "Иссохший"
+ 
+ #Parties
+ 
+ #Equipment
+ 
+ #Tooltip
+ 

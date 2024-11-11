@@ -1,0 +1,22 @@
+﻿l_russian:
+ INTEL_LEDGER_MANPOWER_TOOLTIP:0 "Доступные Игроки: $RANGE|H$"
+ INTEL_LEDGER_FIELDED_MANPOWER_TOOLTIP:0 "Игроки «в поле»:"
+
+ INTEL_LEDGER_DEPLOYED_MANPOWER_COUNT:0 "Развёрнуто армейских игроков: $AMOUNT|H$"
+ INTEL_LEDGER_DEPLOYED_MANPOWER_COUNT_WITH_CAP:0 "Развёрнуто армейских игроков: $AMOUNT|H$ (нужны армейские разведданные: $MIN|H.0%$)"
+ INTEL_LEDGER_DEPLOYED_NAVY_MANPOWER_COUNT:0 "Развёрнуто флотских игроков: $AMOUNT|H$"
+ INTEL_LEDGER_DEPLOYED_NAVY_MANPOWER_COUNT_WITH_CAP:0 "Развёрнуто флотских игроков: $AMOUNT|H$ (нужны флотские разведданные: $MIN|H.0%$)"
+
+ INTEL_LEDGER_DEPLOYED_AIR_MANPOWER_COUNT:0 "Развёрнуто авиационных игроков: $AMOUNT|H$"
+
+ CIV_LEDGER_THRESHOLD_FUZZY_TOTAL_MANPOWER:1 "Примерное количество доступных игроков"
+ CIV_LEDGER_THRESHOLD_MANPOWER:0 "Количество доступных игроковв"
+
+ ARMY_LEDGER_THRESHOLD_DEPLOYED_MANPOWER:0 "Армейские игроков «в поле»:"
+ ARMY_LEDGER_THRESHOLD_FUZZY_DEPLOYED_MANPOWER:1 "Примерное количество игроков «в поле»:"
+
+ NAVY_LEDGER_THRESHOLD_FIELDED_MANPOWER:0 "Развёрнуто флотских игроков"
+ NAVY_LEDGER_THRESHOLD_FUZZY_FIELDED_MANPOWER:1 "Развёрнуто флотских игроков, примерно"
+
+ AIR_LEDGER_THRESHOLD_FIELDED_MANPOWER:0 "Авиационные людские ресурсы «в поле»:"
+ AIR_LEDGER_THRESHOLD_FUZZY_FIELDED_MANPOWER:1 "Примерное количество игроков «в поле»"

@@ -1,0 +1,40 @@
+﻿l_russian:
+ 
+ #Countries Cosmetic
+ 
+ SOS:0 "Слизни болота"
+ SOS_DEF:0 "Слизни"
+ SOS_ADJ:0 "Слизень"
+ 
+ SOS_state:0 "Государство Слизней"
+ SOS_state_DEF:0 "Слизни"
+ SOS_state_ADJ:0 "Слизень"
+ SOS_state_villagism:0 "Республика Слизней"
+ SOS_state_villagism_DEF:0 "Слизни"
+ SOS_state_villagism_ADJ:0 "Слизень"
+ SOS_state_socialism:0 "Республика Слизней"
+ SOS_state_socialism_DEF:0 "Слизни"
+ SOS_state_socialism_ADJ:0 "Слизень"
+ SOS_state_neutrality:0 "Королевство Слизней"
+ SOS_state_neutrality_DEF:0 "Слизни"
+ SOS_state_neutrality_ADJ:0 "Слизень"
+ SOS_state_monster:0 "Королевство Слизней"
+ SOS_state_monster_DEF:0 "Слизни"
+ SOS_state_monster_ADJ:0 "Слизень"
+ 
+ #Advisors
+ 
+ SOS_Gum_Gum:0 "Gum Gum"
+ SOS_Slimey:0 "Slimey"
+ SOS_Cyan:0 "Cyan"
+ SOS_Enver:0 "Enver"
+ SOS_Linus:0 "Linus"
+ SOS_Lemon:0 "Lemon"
+ SOS_Fleck:0 "Fleck"
+ 
+ #Parties
+ 
+ SOS_neutrality_party:0 "Ганк Хаус"
+ SOS_neutrality_party_long:0 "Ганк Хаус"
+ SOS_monster_party:0 "Ганк Хаус"
+ SOS_monster_party_long:0 "Ганк Хаус"

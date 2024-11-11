@@ -1,0 +1,107 @@
+﻿l_russian:
+#Documentation is contained within the documentation folder under `localisation_guidelines.md`. Open it with a text editor, browser, or markup reading interface.
+ ###Politics###
+  ##Bookmark/Intro##
+   #TAG_GATHERING_STORM_DESC: ""
+  ##Country Name##
+   #TAG: ""
+    #TAG_DEF: "the "
+    #TAG_ADJ: ""
+   #TAG_ideology: ""
+    #TAG_ideology_DEF: "the "
+    #TAG_ideology_ADJ: ""
+   #TAG_subideology: ""
+    #TAG_subideology_DEF: "the "
+    #TAG_subideology_ADJ: ""
+  ##Factions##
+   #TAG_faction: ""
+  ##Political Parties##
+  TST_villagism_party: "АЛТТ"
+  TST_villagism_party_long: "Agricultural League for Truffleshroom Terra"
+  TST_socialism_party: "САП"
+  TST_socialism_party_long: "Social-Agrarian Party"
+  TST_nationalist_party: "АВП"
+  TST_nationalist_party_long: "Anti-Villagist Party"
+  TST_neutrality_party: "РФТТ"
+  TST_neutrality_party_long: "Fishermen's Front of Truffleshroom Terra"
+  TST_monster_party: "Разбойники"
+  TST_cultism_party: "Глубоко обреченные"
+   #TAG_ideology_party: ""
+    #TAG_ideology_party_long: ""
+ ###Characters###
+  ##Leaders##
+  TST_stacey_west: "Стэйси Уьэст"
+  TST_stacey_west_leader_desc: "Стэйси Уьэс is the leader of the Agricultural League of Truffleshroom Terra. She is known to be a staunch conservative and anti-socialist. Like most of the inhabitants of Truffleshroom Terra, Stacey grew up on a mooshroom ranch with a ranching family. She decided to go into politics at age 21 and has since become the favoured candidate in the elections. Embodying many of the values that the ranchers consider important has meant that miss West was able to expand her political career to greater heights. However, with a lack of a proper army and a population unwilling to change that fact, it remains to be seen just how well this rancher nation survives during dire times. Whatever happens, Stacey West has your back! (or so she claims)"
+  TST_mooshroom_rancher: "Гриборовное ранчо"
+   #TAG_charactername: ""
+    #TAG_charactername_leader_desc: ""
+    #TAG_charactertrait: ""
+    #TAG_charactertrait_desc: ""
+  ##Commanders##
+    #TAG_charactername_commander_desc: ""
+  ##Political Advisors##
+    #TAG_charactername_political_desc: ""
+  ##Military Advisors##
+    #TAG_charactername_theorist_desc: ""
+    #TAG_charactername_chief_desc: ""
+    #TAG_charactername_highcmdr_desc: ""
+ ###Ideas/Concerns/Flags/Tooltips###
+  ##Ideas##
+  TST_demilitarization_laws: "Законы о демилитаризации"
+   #TAG_ideaname: ""
+    #TAG_ideaname_desc: ""
+  ##Concerns/Designers##
+   #TAG_concernname: ""
+    #TAG_concernname_desc: ""
+  ##Global Flags##
+   #TAG_globalflagname: ""
+  ##Country Flags##
+   #TAG_countryflagname: ""
+  ##Tooltips##
+  TST_nowyoucancreateanarmy_TT: "§GWith the Demilitarization laws repealed, you can create an army to defend Truffleshroom Terra§!"
+   #TAG_tooltipname: ""
+  ##Map Modifiers##
+   #TAG_map_modifier: ""
+ ###National Focuses###
+  #TAG_focustreename: ""
+  ##Focustree Branch##
+   #TAG_focusname: ""
+    #TAG_focusname_desc: ""
+    #TAG_focuscustomtriggertooltipname_cttt: ""
+    #TAG_focuscustomeffecttooltipname_cett: ""
+    #TAG_namespace.eventtitle.t: ""
+     #TAG_namespace.eventdescription.d: ""
+     #TAG_namespace.eventoptiona.a: ""
+     #TAG_namespace.eventoptionacustomeffecttooltip.a_cett: ""
+ ###Events###
+  ##Event Category##
+   #TAG_namespace.eventtitle.t: ""
+    #TAG_namespace.eventtitle.d: ""
+    #TAG_namespace.eventtitle.a: ""
+    #TAG_namespace.eventtitle.a_cett: ""
+ ###Decisions###
+ TST_mobilize_truffleshroom_terra: "Mobilize Truffleshroom Terra"
+ TST_mobilize_truffleshroom_terra_desc: "When our nation was founded, our ancestors chose to pass a series of §R"demilitarization laws"§! that would ensure §Bpeace§! and §Yprosperity§! across the island. This has been very successful and many of our people are prominent supporters of the §gstatus quo§!. Should we ever want to change this, we'd need a §Ggood reason§! and §Ra lot of political backing§!."
+ TST_repeal_the_demilitarization_laws: "Repeal The Demilitarization Laws"
+  ##Decision Category##
+   #TAG_decisioncategoryname: ""
+    #TAG_decisioncategoryname_desc: ""
+    #TAG_decisionname: ""
+     #TAG_decisionname_desc: ""
+     #TAG_focuscustomtriggertooltipname_cttt: ""
+     #TAG_focuscustomeffecttooltipname_cett: ""
+     #TAG_decisionname_req: "£iconhere  §Ycost§!"
+      #TAG_decisionname_req_blocked: "£iconhere  §Yunmetcost§!"
+ ###Cultural Overrides###
+  ##Equipment##
+   #TAG_namedequipment: ""
+    #TAG_namedequipment_desc: ""
+  ##Variants##
+   #TAG_EQUIPMENT_VERSION_1: ""
+  ##Military Namelists##
+   #UNIT_GENERIC_NAME_TAG: "$NR$. $NAME$"
+   #FLEET_NAME_TAG: "fleetname $NUMBER$"
+   #AIR_WING_NAME_TAG_FALLBACK: "$TYPE$ $NUMBER$"
+   #AIR_WING_NAME_TAG_GENERIC: "$NAME$ $NR$"
+  ##City Names##
+   #TAG_vp_cityname: ""

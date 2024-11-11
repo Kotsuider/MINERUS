@@ -1,0 +1,141 @@
+﻿l_russian:
+ ###Introduction###
+  ##Bookmark##
+   DDC_GATHERING_STORM_DESC: "ВЕЧНО МЫ ГРАБИМ! Мертвобередье - единственная жемчужина в огромном мире, управляемая мозаикой доблестных пиратских кланов, каждый из которых вносит свой вклад в сокровищницы нашей страны. У этого побережья необычное происхождение - оно возникло из простого желания пиратов найти себе пристанище. Из этой потребности органично возникли процветающие города. И хотя национальная идентичность еще только формируется, возможно, противостояние надвигающейся угрозе со стороны короля Литча поможет нашему народу сплотиться."
+ ###Politics###
+  ##Country Names##
+   DDC: "Мертвобережье"
+    DDC_DEF: "Мертвобережье"
+    DDC_ADJ: "Мертвобережск"
+  ##Factions##
+   DDC_faction: "I Needa Name"
+   #Pact of International Independence
+   #Entente of Free Nations
+   #$VICTORY_POINTS_8029$ Accords
+  ##Political Parties##
+  DDC_villagism_party: "The Pen-Pushers"
+  DDC_socialism_party: "The Labour Fellows"
+  DDC_nationalist_party: "The Great Captains"
+  DDC_neutrality_party: "The Council of the Coast"
+  DDC_monster_party: "The Lytch King's Cronies"
+  DDC_cultism_party: "The Dark Worshippers"
+ ###Characters###
+  ##Leaders##
+  ##Commanders##
+  ##Political Advisors##
+  ##Military Advisors##
+ ###Ideas###
+   DDC_targeting_merchants: "Targeting Merchants"
+   DDC_fear_the_coast: "Fear the Coast!"
+   DDC_protecting_merchants:  "Protecting Merchants"
+  ##National Spirits##
+   DDC_experienced_pirates: "Experienced Pirates"
+   DDC_lilly_livered: "Vigor of Youth"
+   DDC_i_am_the_law: "Hobbled Opposition"
+   DDC_resistance_is_futile: "Country-wide Surveillance"
+   DDC_liberty_brigades: "Volunteer Brigades"
+   DDC_is_that_leeegal: "Given No Quarter"
+    #Flavour text should be added alongside (before) the embeded effect warning.
+    DDC_is_that_leeegal_desc: "The rabble from §Y[DDC.GetNameDef]§! are ravanging our countryside, driving all before them with reckless ferocity. Our forces are struggling to contend with the chaos. This bonus §Owill cancel§! when the affected country §Rgoes to war§! with §Y[DDC.GetNameDefCap]§!."
+   DDC_socialist_sciences: "Socialist Sciences"
+ ###National Focuses###
+  ##Initial Focus##
+   DDC_the_path_ahead: "The Path Ahead"
+    DDC_the_path_ahead_desc: ""
+  ##Keep the Crown Branch##
+   DDC_keep_the_crown: "Keep the Crown"
+    DDC_keep_the_crown_desc: ""
+   DDC_oppress_normal_people: "Oppress Normal People"
+    DDC_oppress_normal_people_desc: ""
+   DDC_disregard_laws: "Disregard Laws"
+    DDC_disregard_laws_desc: ""
+   DDC_loyal_junior_officers: "Loyal Junior Officers"
+    DDC_loyal_junior_officers_desc: ""
+   DDC_royal_battalions: "Royal Battalions"
+    DDC_royal_battalions_desc: ""
+   DDC_glory_of_the_king: "Glory to the King"
+    DDC_glory_of_the_king_desc: ""
+   DDC_declare_martial_law: "Declare Marshal Law"
+    DDC_declare_martial_law_desc: ""
+   DDC_surveillance_corps: "Surveillance Corps"
+    DDC_surveillance_corps_desc: ""
+   DDC_remove_the_disloyal: "Remove the Disloyal"
+    DDC_remove_the_disloyal_desc: ""
+   DDC_integrate_the_realm: "Integrate the Realm"
+    DDC_integrate_the_realm_desc: ""
+  ##Oppose the Evil##
+   DDC_oppose_the_evil: "Oppose the Evil"
+    DDC_oppose_the_evil_desc: ""
+   DDC_the_jolly_roger_aligned: "The Jolly Roger Aligned"
+    DDC_the_jolly_roger_aligned_desc: ""
+   DDC_the_way_of_the_vote: "The Way of the Vote"
+    DDC_the_way_of_the_vote_desc: ""
+   DDC_bring_in_elected_leaders: "Bring in Elected Leaders"
+    DDC_bring_in_elected_leaders_desc: ""
+   DDC_the_boons_of_liberty: "The Boons of Liberty"
+    DDC_the_boons_of_liberty_desc: ""
+   DDC_volunteer_brigades: "Volunteer Brigades"
+    DDC_volunteer_brigades_desc: ""
+   DDC_government_reform: "Government Reform"
+    DDC_government_reform_desc: ""
+   DDC_together_victorious: "Together Victorious"
+    DDC_together_victorious_desc: ""
+   DDC_socialist_waves: "Socialist Waves"
+    DDC_socialist_waves_desc: ""
+   DDC_red_stars: "Red Stars"
+    DDC_red_stars_desc: ""
+    DDC_red_stars_effect_tooltip: "§YTwo divisions§! of §Gfour infantry battalions§! will spawn in §Y$VICTORY_POINTS_8029$§!."
+   DDC_the_workers_shall_rise: "The Workers Shall Rise"
+    DDC_the_workers_shall_rise_desc: ""
+    DDC_the_workers_shall_rise_effect_tooltip: "§YTwo divisions§! of §Gfour militia battalions§! will spawn in §Y$VICTORY_POINTS_8029$§!."
+   DDC_socialist_science: "Socialist Science"
+    DDC_socialist_science_desc: ""
+   DDC_the_people_lead: "The People Lead"
+    DDC_the_people_lead_desc: ""
+   DDC_raise_militias: "Raise Militias"
+    DDC_raise_militias_desc: ""
+    DDC_raise_militias_effect_tooltip: "§YThree divisions§! of §Gfive militia battalions§! will spawn in §Y$VICTORY_POINTS_8029$§!."
+   DDC_the_unified_pirate_front: "The Unified Pirate Front"
+    DDC_the_unified_pirate_front_desc: ""
+   DDC_warforts: "Warforts"
+    DDC_warforts_desc: ""
+    DDC_warforts_effect_tooltip: "§Y[DDC.GetNameDefCap]§! will receive §gLand Forts§! along it's starting border with §Y[LKR.GetNameDef]§!."
+   DDC_strategic_assassinations: "Strategic Assassinations"
+    DDC_strategic_assassinations_desc: ""
+   DDC_forceful_alignment: "Forceful Alignment"
+    DDC_forceful_alignment_desc: ""
+   DDC_ignore_legal_codes: "Ignore Legal Codes"
+    DDC_ignore_legal_codes_desc: ""
+    DDC_ignore_legal_codes_effect_tooltip: "\nThis effectively ensures that §Y[DDC.GetNameDefCap]§! will have an §Gadvantage§! against the specified target(s).\n\nDo note that this bonus §Owill cancel§! when the affected target §Rgoes to war§! with §Y[DDC.GetNameDefCap]§!."
+   DDC_the_national_station: "The National Station"
+    DDC_the_national_station_desc: ""
+   DDC_for_independence: "For Independence"
+    DDC_for_independence_desc: ""
+   DDC_border_defenses: "Border Defenses"
+    DDC_border_defenses_desc: ""
+    DDC_border_defenses_effect_tooltip: "§Y[DDC.GetNameDefCap]§! will receive §gLand Forts§! and §CCoastal Forts§! along it's starting borders and coastline."
+   DDC_to_defend_others: "To Defend Others"
+    DDC_to_defend_others_desc: ""
+   DDC_new_research_teams: "New Research Teams"
+    DDC_new_research_teams_desc: ""
+ ###Events###
+  ##Triggered Events##
+   DDC_ET.040500.t: "The Dreaded Roger"
+    DDC_ET.040500.d: "As of late the [DDC.GetAdjective] have grown bold and started to completely ransack the countryside. Normally these brigands would conduct their raids, take any valuables, and leave. But with the latest attacks, something has changed. They have started to massacre civilians, raze outlying communities, and offer no quarter to any who cross their path. They've even taken up residence to further terrorize the regions they strike. This bodes ill and may spell difficulties for the times ahead."
+    DDC_ET.040500.a: "§RDead mob tell no tale.§!"
+    DDC_ET.040500.a_effect_tooltip: "Because of these §Oincreased raids§!, it may be wise to station troops on the border..."
+ ###Decisions###
+  #DDC main decision category
+   DDC_piracy: "Acts of Piracy"
+   ##Is that Leegal? Given No Quarter
+    #Country flag tooltip for when the decision category is active.
+    DDC_is_that_leeegal_activated: "[DDC.GetAdjective] have crossed the line."
+    DDC_i_will_make_it_legal: "§RNo Quarter!§! for the §Y[FROM.GetAdjective]§!"
+###Flag###
+    DDC_leader_flag_pirate: "Pirates have been Elected"
+    DDC_leader_flag_monster: "The Lytch King has assorted control"
+###Ideology
+  piracy_ideology: "Piracy"
+  piracy_ideology_desc: "Piracy is the definition of freedom! Plundering yer high seas like no other! United under great captains and raiders, we board up and sail towards a better future where we can build up our perfect pirate republic! Living off thrill and booty."
+###Traits
+  pirate: "Pirate"

@@ -1,0 +1,87 @@
+﻿l_russian:
+ ###Politics###
+  ##Bookmark/Intro##
+   #TAG_GATHERING_STORM_DESC: ""
+  ##Country Names##
+   NPI_neutrality: "Вольные пираты"
+    NPI_neutrality_DEF: "Вольная территория пиратов севера"
+   NPI_drowned_ideology: "Гниющие рейдеры"
+    NPI_drowned_ideology_DEF: "Гнилые рейдеры северных морей"
+   NPI_herobrine_cultism: "Каперы Хиробрина"
+    NPI_herobrine_cultism_DEF: "Самые преданные каперы Херобрина"
+   NPI_minor_cultism: "Оккультные флибустьеры"
+    NPI_minor_cultism_DEF: "Оккультные пираты Севера"
+  ##Factions##
+   #TAG_faction: ""
+  ##Political Parties##
+   NPI_villagism_party: "Коррумпированные чиновники"
+   NPI_socialism_party: "Коварные рабочие"
+   NPI_nationalist_party: "Северное Адмиралтейство"
+   NPI_neutrality_party: "Вольные пиратские отряды"
+   NPI_monster_party: "Гниющие рейдеры"
+   NPI_cultism_party: "Оккультные отряды"
+ ###Characters###
+  ##Leaders##
+   NPI_bartholemew_diggerhide: "Бартоломью Диггерхайд"
+    NPI_bartholemew_diggerhide_leader_desc: "Northern admiral Bartholemew Diggerhide is the last admiral of the northern pirates and the leader of what was once a group of feared and unstoppable raiders. Bartholemew joined the northern pirates when he was young due to financial issues that he was having at the time. He earned the title of admiral extremely quickly and became an infamous pirate because of it. Nothing lasts forever though and soon many admirals and captains would find themselves hunted down by the 'Crooked Hook Enforcement Agency'. Now, Bartholemew Diggerhide is the last of the northern admirality that still holds command over the once vast pirate fleets of the north. Reduced to a shadow of their former selves, the last admiral of the northern pirates will have to pull out all the stops to ensure that he and his crews won't end up on the gallows as well, like many have before them."
+    NPI_the_last_admiral: "Последний адмирал"
+   NPI_shadowhull_painbluff: "Теневой корпус Пейнблеф"
+    NPI_shadowhull_painbluff_leader_desc: "Shadowhull Painbluff is the leader of the infamous 'rotten raiders'. Being an unofficial member of the northern pirate community, Shadowhull has witnessed their decline and subsequent fall from relevancy within his lifetime. His crew raids the local area for plunder and for booty, but things are getting more difficult every day due to local policing measures. With his ascention to the leadership of the Northern Pirates, the north shall once again know to fear the drowned from the deeps. Don't look into the water, if you want to live."
+  ##Commanders##
+  ##Political Advisors##
+  ##Military Advisors##
+ ###Ideas/Concerns/Flags/Tooltips###
+  ##Ideas##
+   #TAG_ideaname: ""
+    #TAG_ideaname_desc: ""
+  ##Concerns/Designers##
+   #TAG_concernname: ""
+    #TAG_concernname_desc: ""
+  ##Global Flags##
+   #TAG_globalflagname: ""
+  ##Country Flags##
+   #TAG_countryflagname: ""
+  ##Tooltips##
+   #TAG_tooltipname: ""
+  ##Map Modifiers##
+   #TAG_map_modifier: ""
+ ###National Focuses###
+  #TAG_focustreename: ""
+  ##Focustree Branch##
+   #TAG_focusname: ""
+    #TAG_focusname_desc: ""
+    #TAG_focuscustomtriggertooltipname_cttt: ""
+    #TAG_focuscustomeffecttooltipname_cett: ""
+    #TAG_namespace.eventtitle.t: ""
+     #TAG_namespace.eventdescription.d: ""
+     #TAG_namespace.eventoptiona.a: ""
+     #TAG_namespace.eventoptionacustomeffecttooltip.a_cett: ""
+ ###Events###
+  ##Event Category##
+   #TAG_namespace.eventtitle.t: ""
+    #TAG_namespace.eventtitle.d: ""
+    #TAG_namespace.eventtitle.a: ""
+    #TAG_namespace.eventtitle.a_cett: ""
+ ###Decisions###
+  ##Decision Category##
+   NPI_yarr: "Спасение северного пиратства!"
+    #NPI_yarr_desc: ""
+    NPI_restore_our_lost_glory: "Вернуть былой авторитет!"
+     #NPI_restore_our_lost_glory_desc: ""
+     #TAG_focuscustomtriggertooltipname_cttt: ""
+     #TAG_focuscustomeffecttooltipname_cett: ""
+     #TAG_decisionname_req: "£iconhere  §Ycost§!"
+      #TAG_decisionname_req_blocked: "£iconhere  §Yunmetcost§!"
+ ###Cultural Overrides###
+  ##Equipment##
+   #TAG_namedequipment: ""
+    #TAG_namedequipment_desc: ""
+  ##Variants##
+   #TAG_EQUIPMENT_VERSION_1: ""
+  ##Military Namelists##
+   #UNIT_GENERIC_NAME_TAG: "$NR$. $NAME$"
+   #FLEET_NAME_TAG: "fleetname $NUMBER$"
+   #AIR_WING_NAME_TAG_FALLBACK: "$TYPE$ $NUMBER$"
+   #AIR_WING_NAME_TAG_GENERIC: "$NAME$ $NR$"
+  ##City Names##
+   #TAG_vp_cityname: ""

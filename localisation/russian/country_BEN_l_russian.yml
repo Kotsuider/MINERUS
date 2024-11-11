@@ -1,0 +1,99 @@
+﻿l_russian:
+ ###Politics###
+  ##Bookmark/Intro##
+   #BEN_GATHERING_STORM_DESC: ""
+  ##Country Name##
+   #BEN: ""
+    #BEN_DEF: "the "
+    #BEN_ADJ: ""
+   #BEN_ideology: ""
+    #BEN_ideology_DEF: "the "
+    #BEN_ideology_ADJ: ""
+   #BEN_subideology: ""
+    #BEN_subideology_DEF: "the "
+    #BEN_subideology_ADJ: ""
+  ##Factions##
+   #BEN_faction: ""
+  ##Political Parties##
+  BEN_villagism_party: "БРФ"
+  BEN_villagism_party_long: "Единый Бенекстиан"
+  BEN_socialism_party: "НЛБ"
+  BEN_socialism_party_long: "Народная лига бенекстанцев"
+  BEN_nationalist_party: "АЗА"
+  BEN_nationalist_party_long: "Aантизападная ассоциация"
+  BEN_neutrality_party: "VOBP"
+  BEN_neutrality_party_long: "Voice of Benextia Party"
+  BEN_monster_party: "Разбойники"
+  BEN_cultism_party: "ПБА"
+  BEN_cultism_party_long: "Партия Бенекстианской Альтернативы
+   #BEN_ideology_party: ""
+    #BEN_ideology_party_long: ""
+ ###Characters###
+  ##Leaders##
+   BEN_victor_reggio_name: "Виктор Реггио"
+    BEN_victor_reggio_desc: "§6By the People, For the People§!\n\nVictor Reggio Calvante is the current president of the Most Serene Republic of Benextia. Born in 614, Ellerti, he was put into this world on a golden cradle. His family was one of the richest of the country at the time and he had a good childhood and lives a comfortable life. But this fortune and comfort comes at a cost. His family heavily exploited the riches of Ellertian mines and the workforce of poorer classes.\n\nElected in 647 by popular vote, the President aims to spread a message of a people's state where all have the same conditions. But that doesn't quite sit right with his actions, as behind closed doors, he profits with the suffering of his people and supports rich westerners aiming to expand their companies in his own nation. Will this man's greed and hipocrisy spell doom for the Island, or will the westerners' economic expansion be its very saviour? Only Notch Knows."
+    #BEN_charactertrait: ""
+    #BEN_charactertrait_desc: ""
+  ##Commanders##
+    #BEN_charactername_commander_desc: ""
+  ##Political Advisors##
+    #BEN_charactername_political_desc: ""
+  ##Military Advisors##
+    #BEN_charactername_theorist_desc: ""
+    #BEN_charactername_chief_desc: ""
+    #BEN_charactername_highcmdr_desc: ""
+ ###Ideas/Concerns/Flags/Tooltips###
+  ##Ideas##
+   #BEN_ideaname: ""
+    #BEN_ideaname_desc: ""
+  ##Concerns/Designers##
+   #BEN_concernname: ""
+    #BEN_concernname_desc: ""
+  ##Global Flags##
+   #BEN_globalflagname: ""
+  ##Country Flags##
+   #BEN_countryflagname: ""
+  ##Tooltips##
+   #BEN_tooltipname: ""
+  ##Map Modifiers##
+   #BEN_map_modifier: ""
+ ###National Focuses###
+  #BEN_focustreename: ""
+  ##Focustree Branch##
+   #BEN_focusname: ""
+    #BEN_focusname_desc: ""
+    #BEN_focuscustomtriggertooltipname_cttt: ""
+    #BEN_focuscustomeffecttooltipname_cett: ""
+    #BEN_namespace.eventtitle.t: ""
+     #BEN_namespace.eventdescription.d: ""
+     #BEN_namespace.eventoptiona.a: ""
+     #BEN_namespace.eventoptionacustomeffecttooltip.a_cett: ""
+ ###Events###
+  ##Event Category##
+   #BEN_namespace.eventtitle.t: ""
+    #BEN_namespace.eventtitle.d: ""
+    #BEN_namespace.eventtitle.a: ""
+    #BEN_namespace.eventtitle.a_cett: ""
+ ###Decisions###
+  ##Decision Category##
+   #BEN_decisioncategoryname: ""
+    #BEN_decisioncategoryname_desc: ""
+    #BEN_decisionname: ""
+     #BEN_decisionname_desc: ""
+     #BEN_focuscustomtriggertooltipname_cttt: ""
+     #BEN_focuscustomeffecttooltipname_cett: ""
+     #BEN_decisionname_req: "£iconhere  §Ycost§!"
+      #BEN_decisionname_req_blocked: "£iconhere  §Yunmetcost§!"
+ ###Cultural Overrides###
+  ##Equipment##
+   #BEN_namedequipment: ""
+    #BEN_namedequipment_desc: ""
+  ##Variants##
+   #BEN_EQUIPMENT_VERSION_1: ""
+  ##Military Namelists##
+   #UNIT_GENERIC_NAME_BEN: "$NR$. $NAME$"
+   #FLEET_NAME_BEN: "fleetname $NUMBER$"
+   #AIR_WING_NAME_BEN_FALLBACK: "$TYPE$ $NUMBER$"
+   #AIR_WING_NAME_BEN_GENERIC: "$NAME$ $NR$"
+  ##City Names##
+   #BEN_vp_cityname: ""

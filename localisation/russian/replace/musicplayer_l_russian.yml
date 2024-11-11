@@ -1,0 +1,6 @@
+﻿l_russian:
+ MUSICPLAYER_PLAY_TRACK:0 "Играть музыкальный диск"
+ MUSICPLAYER_DISABLE_TRACK:0 "Выключить музыкальный диск"
+ MUSICPLAYER_ENABLE_TRACK:0 "Включить музыкальный диск"
+ MUSICPLAYER_REMOVE_TRACK:0 "Убрать музыкальный диск"
+ MUSICPLAYER_CURRENT_TRACK:0 "Сейчас музыкальный диск: $NAME|Y$ $DURATION|Y$"

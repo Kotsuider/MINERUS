@@ -1,0 +1,51 @@
+﻿l_russian:
+
+ #Nether portal stuff
+ 
+ nether_portals_category:0 "Порталы Нижнего Мира"
+ nether_portals_category_desc:0 "Каждый из этих Порталов Нижнего Мира имеет связь с Верхним Миром. Вам следует проверить, к какой провинции они подключены, чтобы вы могли подготовить свое вторжение"
+
+ activate_heartland_portal:0 "Активировать портал Хёртланд"
+ activate_ironlands_portal:0 "Активировать портал Аёронланд"
+ activate_pampla_portal:0 "Активировать портал Пампла"
+ activate_darzah_portal:0 "Активировать портал Дарза"
+ activate_grimers_portal:0 "Активировать портал Граймерса"
+ activate_lowlands_portal:0 "Активировать портал Низменностей"
+ activate_appalache_portal:0 "Активировать портал Аппалачей"
+ activate_northerlands_portal:0 "Активировать портал Северных Земель"
+ activate_undead_portal:0 "Активировать портал Нежити"
+ activate_hartbrine_portal:0 "Активировать портал Хартбрина"
+
+ #Northerner Stuff 
+ SPR_form_northern_empire_decision:0 "Сформировать Северную Империю"
+ remnants_category:0 "Сплотить остатки"
+ spr_buy_military_factory:0 "Собрать военные ресурсы"
+ spr_buy_civilian_factory:0 "Собрать промышленные ресурсы"
+
+ # ach requirement decisions
+ hom_ach_category:0 "Требование к Достижениям"
+ hom_ach_decision_is_cosmetic:0 "Это решение предназначено для перечисления требований. Достижение срабатывает автоматически."
+ hom_ach_hidden:0 "Скрытое Достижение"
+ hom_ach_win_the_civil_war_first:0 "Сначала вы должны выиграть гражданскую войну."
+ hom_ach_the_last_offensive_succeeded:0 "Последнее наступление увенчалось успехом."
+
+ the_return_of_the_king_loc:0 "Возращение Короля"
+ crusader_blocks_loc:0 "Блоки Крестоносцев"
+ alexanders_dream_loc:0 "Мечта Александра"
+
+ the_return_of_the_king_reqs:0 "[scripted_the_return_of_the_king_reqs]"
+ crusader_blocks_reqs:0 "[scripted_crusader_blocks_reqs]"
+ alexanders_dream_reqs:0 "[scripted_alexanders_dream_reqs]"
+ always_sprint_ahead_reqs:0 "Всегда Бежать Вперёд"
+ jacob_rules_supreme_reqs:0 "Правила Великого Джейкоба"
+ the_end_of_conflict_reqs:0 "Окончание Конфликта"
+ i_dont_like_sand_reqs:0 "Я не люблю Песок"
+ back_in_control_reqs:0 "Вернуть Контроль"
+ the_seakers_reqs:0 "Искатели"
+ the_answer_is_slavery_reqs:0 "Ответ - Рабство"
+ make_a_villager_out_of_you_reqs:0 "Сделать из тебя Крестьянина"
+ khaaaaaan_reqs:0 "KHAAAAAAN"
+ phoenix_of_the_north_reqs:0 "Феникс Севера"
+
+ the_return_of_the_king_reqs_custom_tooltip:0 "Реформировать Южную Империю Игроков"
+ alexanders_dream_reqs_custom_tooltip:0 "Не существует ни одной деревенской нации, которая не была бы вашим субьектом."
