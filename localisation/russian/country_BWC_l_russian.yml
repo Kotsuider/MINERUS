@@ -1,0 +1,123 @@
+﻿l_russian:
+#Documentation is contained within the documentation folder under `localisation_guidelines.md`. Open it with a text editor, browser, or markup reading interface.
+ ###Politics###
+  ##Bookmark/Intro##
+   #TAG_GATHERING_STORM_DESC: ""
+  ##Country Name##
+  BWC: "Бандиты Блэквуда"
+  BWC_DEF: "Херобринские бандиты мориса Блэквуда"
+  BWC_ADJ: "Северные твари"
+  BWC_neutrality: "Южный Нортвалл"
+  BWC_neutrality_DEF: "Территория южного Нортвалла"
+  BWC_neutrality_ADJ: "South Northwallian"
+   #TAG: ""
+    #TAG_DEF: "the "
+    #TAG_ADJ: ""
+   #TAG_ideology: ""
+    #TAG_ideology_DEF: "the "
+    #TAG_ideology_ADJ: ""
+   #TAG_subideology: ""
+    #TAG_subideology_DEF: "the "
+    #TAG_subideology_ADJ: ""
+  ##Factions##
+   #TAG_faction: ""
+  ##Political Parties##
+  BWC_cultism_party: "Чёрный стол"
+  BWC_villagism_party: "Нотчисткие еретики"
+  BWC_socialism_party: "Нотчисткие еретики"
+  BWC_nationalist_party: "Крусейдеры Нотча"
+  BWC_neutrality_party: "Нотчисткие еретики""
+  BWC_monster_party: "Вольные монстры"
+   #TAG_ideology_party: ""
+    #TAG_ideology_party_long: ""
+ ###Characters###
+  ##Leaders##
+  BWC_moris_blackwood: "Морис Блэквуд"
+  BWC_moris_blackwood_leader_desc: "Moris Jeremiah Blackwood was born into a group of survivors, bandits and outlaws. Being taught about Herobrine and his divinity since birth, Moris always held Herobrine and his teachings extremely close to his heart. Originally he wanted to be a priest, before fate decided otherwise. After successfully raiding a Northwallian fort, he was promoted to being one of Harold Flaire's advisors and commanders. Flaire would be captured and executed by the Northwallian army, which meant that Blackwood would take control of the group after his death. Now that Moris is in charge, he plans to continue the objective that those before him have set: the destruction of Northwall and the capture of the entire north in the name of Herobrine. This is a difficult task and one that will be opposed by pretty much every northern nation, but that does not matter to the men and women of Blackwood's Bandits. They will take the north in Herobrine's name, no matter the cost. Those Notchists will pay!"
+  BWC_the_dark_bandit: "Тёмный бандит"
+  BWC_mark_andersson: "Марк Андерссон"
+  BWC_mark_andersson_leader_desc: "Mark Andersson grew up with the teachings of Herobrine-ism. He was taught about how Herobrine was wronged and how the Notchists were going to destroy him and those who he loved. However, when Northwallian troops entered his village, this was not the case. Instead, they offered a chance to convert to Notchism. Many were not interested, but Mark saw this as a second chance. Herobrine hadn't saved them, so clearly he was not worth worshipping. Though he is hated by his former allies, he was chosen to become the military governor of the new South Northwall Territory. If Mark Andersson could see the light, then surely others could too?"
+  BWC_converted_bandit: "Обращенный бандит"
+   #TAG_charactername: ""
+    #TAG_charactername_leader_desc: ""
+    #TAG_charactertrait: ""
+    #TAG_charactertrait_desc: ""
+  ##Commanders##
+    #TAG_charactername_commander_desc: ""
+  ##Political Advisors##
+    #TAG_charactername_political_desc: ""
+  ##Military Advisors##
+    #TAG_charactername_theorist_desc: ""
+    #TAG_charactername_chief_desc: ""
+    #TAG_charactername_highcmdr_desc: ""
+ ###Ideas/Concerns/Flags/Tooltips###
+  ##Ideas##
+  BWC_the_black_table: "Чёрный стол"
+  BWC_the_black_table_desc: "The Black Table is the main form of governance within our Remnant Group aside from our leader. The Black Table is comprised of the 12 most capable individuals of our nation. These 12 each occupy one seat of the table, with the 13th seat always being at the head and always being reserved for the current leader. The black table decides over most internal matters while the leader does the vast majority of the foreign diplomacy."
+  BWC_defeated_the_expedition: "Победа над Экспедицией"
+   #TAG_ideaname: ""
+    #TAG_ideaname_desc: ""
+  ##Concerns/Designers##
+   #TAG_concernname: ""
+    #TAG_concernname_desc: ""
+  ##Global Flags##
+   #TAG_globalflagname: ""
+  ##Country Flags##
+  BWC_won_raid: "Has won a raid against the Northwallian Armed Forces"
+   #TAG_countryflagname: ""
+  ##Tooltips##
+  BWC_custom_cost_notchist_invasion_text: "§GInfantry Equipment > 2500§!"
+  BWC_custom_cost_notchist_invasion_text_blocked: "§RInfantry Equipment > 2500§!"
+  BWC_custom_cost_notchist_invasion_text_tooltip: "You need to have §Ymore than 2500 infantry equipment§! to invade Northwall!"
+   #TAG_tooltipname: ""
+  ##Map Modifiers##
+   #TAG_map_modifier: ""
+ ###National Focuses###
+  #TAG_focustreename: ""
+  ##Focustree Branch##
+   #TAG_focusname: ""
+    #TAG_focusname_desc: ""
+    #TAG_focuscustomtriggertooltipname_cttt: ""
+    #TAG_focuscustomeffecttooltipname_cett: ""
+    #TAG_namespace.eventtitle.t: ""
+     #TAG_namespace.eventdescription.d: ""
+     #TAG_namespace.eventoptiona.a: ""
+     #TAG_namespace.eventoptionacustomeffecttooltip.a_cett: ""
+ ###Events###
+ BWC.1.d: "Мы успешно прорвали линию фортов Нортволла и разгромили их силы. Мы можем грабить и совершать набеги на сельскую местность, пока не прибудет подкрепление из Нортвалла. СМЕРТЬ НОТЧИСТАМ!"
+ BWC.2.d: "Наш рейд на форт Нортвалла прошел ужасно. Наши мужчины и женщины либо попали в плен, либо погибли, а лидер рейда пропал. Для нас это не могло быть хуже."
+ BWC.3.d: "Рейд на фортовую линию Нортвалля завершился вничью. Нам удалось прорваться в форт, но защитники снова нас вытеснили. Половина нашего рейдового отряда пережила битву, и это лучше, чем ничего."
+ BWC.4.d: "Командир, мы успешно отразили атаку южных бандитов. Их трупы гниют перед фортом, который они пытались захватить. Те, кто не умер, были взяты в плен. Для нас это большая победа."
+ BWC.5.d: "Сэр, бандиты прорвались через форты! Наши мужчины и женщины изо всех сил пытаются сдержать их, поскольку они грабят и убивают невинных людей, живущих вблизи линии фортов. По пути у нас уже есть подкрепления, но жители Нортваллины наверняка запомнят это поражение."
+ BWC.6.d: "Мы только что отразили атаку бандитов, мадам. Сначала они сломали стены форта, но мы вытеснили их и убили как минимум половину их рейдового отряда. Возможно, это не полная победа, но уж точно не поражение."
+  ##Event Category##
+   #TAG_namespace.eventtitle.t: ""
+    #TAG_namespace.eventtitle.d: ""
+    #TAG_namespace.eventtitle.a: ""
+    #TAG_namespace.eventtitle.a_cett: ""
+ ###Decisions###
+ BWC_attack_the_fortline: "Атакуйте линию фортов!"
+ BWC_invade_the_notchists: "Захватите нотчистов!"
+  ##Decision Category##
+ BWC_raid_northwall: "Райды на Нортваллину!"
+   #TAG_decisioncategoryname: ""
+    #TAG_decisioncategoryname_desc: ""
+    #TAG_decisionname: ""
+     #TAG_decisionname_desc: ""
+     #TAG_focuscustomtriggertooltipname_cttt: ""
+     #TAG_focuscustomeffecttooltipname_cett: ""
+     #TAG_decisionname_req: "£iconhere  §Ycost§!"
+      #TAG_decisionname_req_blocked: "£iconhere  §Yunmetcost§!"
+ ###Cultural Overrides###
+  ##Equipment##
+   #TAG_namedequipment: ""
+    #TAG_namedequipment_desc: ""
+  ##Variants##
+   #TAG_EQUIPMENT_VERSION_1: ""
+  ##Military Namelists##
+   #UNIT_GENERIC_NAME_TAG: "$NR$. $NAME$"
+   #FLEET_NAME_TAG: "fleetname $NUMBER$"
+   #AIR_WING_NAME_TAG_FALLBACK: "$TYPE$ $NUMBER$"
+   #AIR_WING_NAME_TAG_GENERIC: "$NAME$ $NR$"
+  ##City Names##
+   #TAG_vp_cityname: ""
