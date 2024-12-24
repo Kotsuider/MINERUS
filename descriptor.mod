@@ -7,5 +7,5 @@ tags={
 }
 name="Hearts of Minecraft: Petals of Hope RUS | Русификатор"
 picture="thumbnail.png"
-supported_version="1.14.*"
+supported_version="1.15.*"
 remote_file_id="2626313563"
